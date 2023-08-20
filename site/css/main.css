@@ -1,0 +1,42 @@
+* {
+    font-family: "Verdana";
+}
+
+.main-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: 34px;
+    text-decoration: underline;
+}
+
+.sub-heading {
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.sub-sub-heading {
+    text-align: left;
+    font-size: 18px;
+}
+
+.text {
+    font-size: 22px;
+}
+
+.equation {
+    font-family: "Cambria";
+    font-size: 18px;
+}
+
+.note {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.footnote {
+    font-size: 14px;
+    font-weight: bold;
+}
