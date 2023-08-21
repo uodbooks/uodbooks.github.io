@@ -29,7 +29,7 @@ We, the volunteers are motivated by a common objective, which is to <b>serve</b>
 
 We also encourage the junior members to utilise the site for referring to books and notes and not abuse it for self-centered purposes/unfair means. Preventive steps to restrict such malpractices will be taken without any notice.
 
-Again, <b>the organisation is NOT affiliated to the university and IS an independent project organisation.</b>
+Again, <b>the organisation is NOT affiliated to the University of Delhi and IS an independent project organisation.</b>
 
 <hr>
 
