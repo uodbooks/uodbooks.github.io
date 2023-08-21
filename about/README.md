@@ -1,23 +1,20 @@
-# unssc.github.io
-Site of <b>UNSSC</b> (<b>UN</b>official <b>S</b>t. <b>S</b>tephen's <b>C</b>ollege)
+# uodbooks.github.io
+Site of <b>uodbooks</b> (not affiliated with the University of Delhi)
 
 <hr>
 
 ## Definitions:
 <ul type="square">
   <li>
-    <b>The college:</b> solely refers to the <i>official</i> College affiliated with the University of Delhi
+    <b>Junior members:</b> refers to the students (of every year) in the university
   </li>
   <li>
-    <b>Junior members:</b> refers to the students (of every year) in the college/university
+    <b>The project:</b> refers to the project <u>uodbooks</u> with the aim of serving the junior members academically
+  </li>
+  <li><b>The site/organisation:</b> solely refers to the site of <b>uodbooks</b> and the organisation respectively hosted on and restricted to GitHub
   </li>
   <li>
-    <b>The project:</b> refers to the project <u>unssc</u> with the aim of serving the junior members
-  </li>
-  <li><b>The site/organisation:</b> solely refers to the site of -unssc- and the organisation respectively hosted on and restricted to GitHub
-  </li>
-  <li>
-    <b>Volunteer:</b> solely refers to a member of the organisation willing to contribute to the project
+    <b>Volunteer:</b> is a member of the organisation willing to contribute to the project
   </li>
 </ul>
 
@@ -25,15 +22,16 @@ Site of <b>UNSSC</b> (<b>UN</b>official <b>S</b>t. <b>S</b>tephen's <b>C</b>olle
 
 ## Disclaimer cum Statement of Purpose
 ### (This is tentative; subject to reconstitution)
-#### The organisation is NOT affiliated to the college/university and IS an independent project organisation.<br>
-<i>Initiated</i> and <i>maintained</i> by the junior members of the college, open to everyone, the site mainly hosts <b>prescribed books</b>, <b>course notes</b> for the various course(s) <b><u>(subject to availability of volunteers of the specific discipline)</u></b> offered by the college, and any other topic which the volunteers find it essential to pass onto the junior/fellow junior/future junior members of the college/university on a condition that it is <b><u>free from any personal/general opinions</u></b> and is <b><u>homogenous</u></b> (solely comprising of computerised text, not restricted to eBooks/PDFs but applicable to notes and any closely related utility in order to encourage uniformity).
+#### The organisation is NOT affiliated to the University of Delhi and IS an independent project organisation.<br>
+<i>Initiated</i> and <i>maintained</i> by some junior members of a college in the university, open to everyone, the site mainly hosts <b>prescribed books</b>, <b>course notes</b> for the various course(s) <b><u>(subject to availability of volunteers of the specific discipline)</u></b> offered by the university, and any other topic which the volunteers find it essential to pass onto the fellow/future junior members on a condition that it is <b><u>free from any personal/general opinions</u></b> and is <b><u>homogenous</u></b> (solely comprising of computerised text, not restricted to eBooks/PDFs but applicable to notes and any closely related utility in order to encourage uniformity).
 
-The volunteers are motivated by a common objective, which is to <b>serve</b>; to serve the junior/future junior members of the college/university. They (volunteers) do not mean to defame or to infringe any entity or it's rights. The books are hosted only for academic purposes and to promote social inclusivity.
+We, the volunteers are motivated by a common objective, which is to <b>serve</b>; to serve the fellow/future junior members of the university. We do not mean to defame or to infringe any entity or it's rights. The books are hosted only for academic purposes and to promote social inclusivity.
 
-We (volunteers) also encourage the junior members to refer to the site as a last resort and not abuse it for self-centered purposes/unfair means. As a prevention, the visibilty of the site will be lost temporarily for a week before, on the day, and the following two days of both internal and external examinations. This is subject to the examination schedule of each discipline, and the visibility will be restricted for even longer.
+We also encourage the junior members to utilise the site for referring to books and notes and not abuse it for self-centered purposes/unfair means. Preventive steps to restrict such malpractices will be taken without any notice.
 
-Again, <b>the organisation is NOT affiliated to the college/university and IS an independent project organisation.</b>
+Again, <b>the organisation is NOT affiliated to the university and IS an independent project organisation.</b>
 
 <hr>
 
+If you feel you can contribute to the site in any way (books, notes, web-designing, etc.). Please open a PR in the site repository on GitHub. Thank you for reading.
 (Work In Progress)
