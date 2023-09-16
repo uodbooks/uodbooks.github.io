@@ -27,7 +27,7 @@ Site of <b>uodbooks</b> (not affiliated with the University of Delhi)
 
 We, the volunteers are motivated by a common objective, which is to <b>serve</b>; to serve the fellow/future junior members of the university. We do not mean to defame or to infringe any entity or it's rights. The books are hosted only for academic purposes and to promote social inclusivity.
 
-We also encourage the junior members to utilise the site for referring to books and notes and not abuse it for self-centered purposes/unfair means. Preventive steps to restrict such malpractices will be taken without any notice.
+We also encourage the junior members to utilise the site for referring to books and notes and not abuse it for self-centered purposes/unfair means.
 
 Again, <b>the organisation is NOT affiliated to the University of Delhi and IS an independent project organisation.</b>
 
